@@ -1,0 +1,8 @@
+﻿  lab3.cpp
+  Math.cpp
+C:\Users\Marian Ion\source\repos\lab3\lab3\Math.cpp(19,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marian Ion\source\repos\lab3\lab3\Math.cpp(23,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marian Ion\source\repos\lab3\lab3\Math.cpp(35,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marian Ion\source\repos\lab3\lab3\Math.cpp(39,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  lab3.vcxproj -> C:\Users\Marian Ion\source\repos\lab3\x64\Debug\lab3.exe
